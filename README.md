@@ -37,7 +37,9 @@
   <a href="https://www.instagram.com/p2_pmr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  <a href="https://open.spotify.com/user/y3f8iluszhxo25dk3ygt4hlhr?si=12bae668b3484bac" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  </a>
 </div>
 
 ###
